@@ -1,4 +1,4 @@
-package com.servlet;
+package master.servlet;
 
 import com.dao.AllotmentDAO;
 import com.dto.AllotmentDTO;
@@ -32,3 +32,4 @@ public class AllotmentServlet extends HttpServlet {
         }
     }
 }
+
