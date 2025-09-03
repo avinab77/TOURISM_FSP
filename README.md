@@ -1,8 +1,6 @@
 # TOURISM_FSP
 This a repo for an hotel booking site we made together.
 
-Here’s a polished and “cool” project summary you can use:
-
 ---
 
 **Project Summary – Online Tourism & Hotel Booking System**
